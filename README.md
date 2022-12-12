@@ -31,7 +31,7 @@ I did manage to create my web app into a PWA. Below shows two pictures: first pi
 
 Unfortunatly, I was also unable to deloy my web app due to converting my app into a PWA.
 
-I noticed that PWA only works with Django 3, however my Django vision is 4.1.4.
+I noticed that PWA only works with Django 3, however my Django version is 4.1.4.
 To get PWA to work I had to manually modify a urls.py file within the in a pwa directory which was in the site-packages. Although I can download a PWA, that has now caused a problem with creating my app contain for docker. A picture of the error is below. This is the same error I got before I modified urls.py
 <img width="728" alt="image" src="https://user-images.githubusercontent.com/71662080/206954231-bc3b45a8-6159-4c9f-8949-3941c4fb81fc.png">
 
