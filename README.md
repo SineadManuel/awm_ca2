@@ -1,4 +1,4 @@
-# awm_ca2
+# AWM CA2
 
 The purpose of this assignment was to create a location-based services application which contains the following technologies:
 - Database: PostgreSQL with PostGIS
